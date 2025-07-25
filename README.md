@@ -1,7 +1,7 @@
 # NanoProFormer
 
-This repository contains the source code for model construction and explanation in *A million-scale dataset and generalizable foundation model for nanomaterial-protein interactions
-(https://arxiv.org/abs/2507.14245)*. If you utilize the code or algorithms presented here, your citation would be greatly appreciated (arXiv:2507.14245).
+This repository contains the source code for model construction and explanation in *A million-scale dataset and generalizable foundation model for nanomaterial-protein interactions*
+(https://arxiv.org/abs/2507.14245). If you utilize the code or algorithms presented here, your citation would be greatly appreciated (arXiv:2507.14245).
 
 ## **Folder Contents**
 
